@@ -1,0 +1,12 @@
+{
+  "name": "html-viewer",
+  "version": "1.0.0",
+  "description": "A simple server to host multiple HTML files for free on Vercel or Render",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
